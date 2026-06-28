@@ -1,0 +1,13 @@
+name = "Hypno MC"
+author = "Adri"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "61655988f071bde1e0af17c32acda2015a42c86b64e7d102d1684a3769838dee"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"
