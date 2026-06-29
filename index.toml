@@ -21,11 +21,6 @@ hash = "3c0eb45c3a1d81142267955d472180fc86d082b3a23187ea20a7372f635584e8"
 metafile = true
 
 [[files]]
-file = "mods/cardboard.pw.toml"
-hash = "7f9a389b8294d5c7293aa4a14e636d0a4f993e7b86a534b3a5cd15cc2bea52f9"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
 metafile = true
