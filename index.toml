@@ -131,6 +131,11 @@ hash = "901b8f3bbdf84845f5aab2578cbe74189fd73a665cc310c66912720877e10ece"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e0fd4f6062972d51fd78d9116cb61f1505c56a1dccfb64ae16453b5faff605e8"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
 metafile = true
