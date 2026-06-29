@@ -71,6 +71,11 @@ hash = "9b389e6d87cc44de9a963625370b5ed4675ad45b9197f899e7653b632a615de2"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
 metafile = true
@@ -81,6 +86,11 @@ hash = "b76196706d9189c52a5c3d7c8a8a6e3b08d41bf2e441597ce2ccc2d6efe2a6b3"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "f294d82e6cb1f9dabd7de9f1d3d4674585370423f2a3bb87dc5f9371e16db512"
 metafile = true
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "96d39848ce238ca052b4afc72be0209b51fe1f8fa4e8c0fb71bab67c5378c840"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
 metafile = true
 
 [[files]]
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "901b8f3bbdf84845f5aab2578cbe74189fd73a665cc310c66912720877e10ece"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "23ea9cbbe101c02fa303de93336834febc20c6606147f7f22a7c1a536d0e5557"
 metafile = true
 
 [[files]]
