@@ -21,6 +21,11 @@ hash = "3c0eb45c3a1d81142267955d472180fc86d082b3a23187ea20a7372f635584e8"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
+metafile = true
+
+[[files]]
+file = "mods/leashable-collars-unofficial-port.pw.toml"
+hash = "6d8c1032032a7c8d4bf87890d93d999c74bd5255d23a37586bbd9b115da8f418"
 metafile = true
 
 [[files]]
