@@ -161,6 +161,11 @@ hash = "a28248f9ab824a733465abc1b1c3167d9daf4a35bc509fe916beed39dfa48d62"
 metafile = true
 
 [[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "592c12675a19959c994b833c56c58885079db6b568db5e16b13f189c5ab6050b"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7f5b46ce836d486686fe3fd9b4fe6d211a4a630912963be9a32e8f464cfbb5dd"
 metafile = true
