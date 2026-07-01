@@ -1,0 +1,13 @@
+name = "Leashable Collars (Unofficial 26.1.2 Port)"
+filename = "PlayerCollars-1.6.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u20XXmE7/versions/UdU7UHp0/PlayerCollars-1.6.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "7ce8f9dcb48613d3548b6cef781f8390bbba8f77b36ed9fc6a945c11f85e439a07670e417cc91f51e75cd248da43498d01b8cbdd7befc5e97d2f7c5d8655ed79"
+
+[update]
+[update.modrinth]
+mod-id = "u20XXmE7"
+version = "UdU7UHp0"
