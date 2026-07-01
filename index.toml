@@ -21,6 +21,11 @@ hash = "3c0eb45c3a1d81142267955d472180fc86d082b3a23187ea20a7372f635584e8"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "bad673cb8ba8dbf5aa6287c642ff137fd5efee266bf0ef47f2df56cea65765e8"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
 metafile = true
@@ -51,8 +56,18 @@ hash = "17b8ecedbf3560b2ccdee03527f394c19c182bde4b778f679c5f22b55c179287"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "5f3716f1cd416f0ba0660abcb7907fc965d5f1cad74d023cc07ed324d39105d0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -81,6 +96,11 @@ hash = "b76196706d9189c52a5c3d7c8a8a6e3b08d41bf2e441597ce2ccc2d6efe2a6b3"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "a761f8d4e0fa1d803fee767215fefeedefc75120667e47bf7a5e1c2714542b59"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
@@ -101,8 +121,18 @@ hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "f42bccd25295e6202f16a6e38dbf48ab35e18e01692f58646b6b76213b2648b9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "026e6a4227aad2fb963370c84a0438710a7e7e78d8015c56b3b2c5ed7e6ae202"
 metafile = true
 
 [[files]]
@@ -148,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/trek.pw.toml"
 hash = "856519bd5d0f0736c86a2ebbc833b8499075be4b1d6613988f4e5104ba2d9a32"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "55577479c366e5042ac8ab338a7b24aeac7f3ec6c35336bb17cb30a6c4129490"
 metafile = true
 
 [[files]]
