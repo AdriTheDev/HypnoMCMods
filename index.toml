@@ -21,13 +21,13 @@ hash = "aa676a6bbf44fac22c9867eb93ee834c1a41f39b17cd135d5aa49f37a3d73681"
 metafile = true
 
 [[files]]
-file = "mods/bl4cks-sit.pw.toml"
-hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+file = "mods/banhammer.pw.toml"
+hash = "bad673cb8ba8dbf5aa6287c642ff137fd5efee266bf0ef47f2df56cea65765e8"
 metafile = true
 
 [[files]]
-file = "mods/banhammer.pw.toml"
-hash = "bad673cb8ba8dbf5aa6287c642ff137fd5efee266bf0ef47f2df56cea65765e8"
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "026e6a4227aad2fb963370c84a0438710a7e7e78d8015c56b3b2c5ed7e6ae202"
+hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
 
 [[files]]
