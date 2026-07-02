@@ -41,6 +41,16 @@ hash = "bd25e9f4bd1d2d0cf39da5b3e5796821234b92ca0f063a427eed9b931f1f5a69"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "ec1ac7f255edec075ade674233f4e1216aa1e88a1eb5147f1babd3a8e9f52874"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7b9b4b594e743cbb4b361f200e14321f09cbb31d7c3c0ada9b4e192d4fa85337"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "6467dc54e4f560c556f3f7c0e1473b1c83256feb21848910491b84919b0b670a"
 metafile = true
@@ -161,6 +171,11 @@ hash = "9dc21c150cfc4a99aa8e16135e79005e4a5070f85ac5c078e88a4bee55129f40"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "3b6472f476be4f77ff9c0e63124db40377752f9b5441ba9b624ef53b28766e3f"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "bc688846fc43c50038bac01b7a9c5ebe25d9fe1b5b217236e7797c4047e5abc4"
 metafile = true
@@ -173,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "96f01482d47ed0fe2fe2a914c1193a6f82242e3e2e5813ecce6951e227e531d7"
+metafile = true
+
+[[files]]
+file = "mods/skinshifter.pw.toml"
+hash = "f5dffeb2bb9097a29bc95678814b00c7098f65aef50a53d8613a98665400b0ba"
 metafile = true
 
 [[files]]
@@ -208,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "f35fb0ba9ad5e2d03d4fa9fd70ceecf565311bf3ec15c027cea9022794f23ea8"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "b7906e6df1c8801ac49da3888b9e4af3df06c253d8be4fec1c0ba14109f7cb76"
 metafile = true
 
 [[files]]
